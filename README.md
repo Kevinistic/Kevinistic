@@ -54,6 +54,7 @@
   <a href="https://www.youtube.com/@aoderu" target="_blank">
     <img src="https://img.shields.io/static/v1?message=@aoderu&logo=youtube&label=Youtube&color=FF0000&logoColor=white&labelColor=&style=flat" height="25" alt="youtube logo"  />
   </a>
+  <a href="https://discordapp.com/users/894170177330098217" target="_blank">
   <img src="https://img.shields.io/static/v1?message=aoderu&logo=discord&label=Discord&color=7289DA&logoColor=white&labelColor=&style=flat" height="25" alt="discord logo"  />
 </div>
 
