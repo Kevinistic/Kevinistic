@@ -1,5 +1,5 @@
 <h3 align="left">aoderu here. i do data, web, and any other stuff.</h3>
-<h3 align="left">csui '24</h3>
+<p align="left">csui '24</p>
 
 ###
 
