@@ -1,4 +1,5 @@
-<h3 align="left">aoderu here. i do data among other stuff too. still a cs student, though.</h3>
+<h3 align="left">aoderu here. i do data, web, and any other stuff.</h3>
+<h3 align="left">csui '24</h3>
 
 ###
 
